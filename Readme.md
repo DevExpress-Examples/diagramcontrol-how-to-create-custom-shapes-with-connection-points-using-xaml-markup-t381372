@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [DiagramResourceKey.cs](./CS/XtraDiagram.CreateCustomShapesXaml/DiagramResourceKey.cs) (VB: [DiagramResourceKey.vb](./VB/XtraDiagram.CreateCustomShapesXaml/DiagramResourceKey.vb))
+* [DiagramResources.xaml](./CS/XtraDiagram.CreateCustomShapesXaml/DiagramResources.xaml) (VB: [DiagramResources.xaml](./VB/XtraDiagram.CreateCustomShapesXaml/DiagramResources.xaml))
+* [Form1.cs](./CS/XtraDiagram.CreateCustomShapesXaml/Form1.cs) (VB: [Form1.vb](./VB/XtraDiagram.CreateCustomShapesXaml/Form1.vb))
+* [Program.cs](./CS/XtraDiagram.CreateCustomShapesXaml/Program.cs) (VB: [Program.vb](./VB/XtraDiagram.CreateCustomShapesXaml/Program.vb))
+<!-- default file list end -->
 # DiagramControl - How to create custom shapes with connection points using XAML markup
 
 
